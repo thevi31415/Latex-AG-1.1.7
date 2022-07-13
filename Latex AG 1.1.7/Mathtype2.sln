@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathtype2", "Mathtype2.csproj", "{F93ECFA4-B928-4FB9-92F7-22AD589AE813}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{4F95E57B-4D69-4B85-B3FE-152B4E1128CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93ECFA4-B928-4FB9-92F7-22AD589AE813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93ECFA4-B928-4FB9-92F7-22AD589AE813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93ECFA4-B928-4FB9-92F7-22AD589AE813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93ECFA4-B928-4FB9-92F7-22AD589AE813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F95E57B-4D69-4B85-B3FE-152B4E1128CA}.Debug|Any CPU.ActiveCfg = Debug
+		{4F95E57B-4D69-4B85-B3FE-152B4E1128CA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7186AE2-BC23-474E-A45E-6778ED7F281D}
+	EndGlobalSection
+EndGlobal
